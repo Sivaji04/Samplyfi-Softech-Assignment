@@ -8,7 +8,7 @@ function Avatar({ username }) {
   const url = `https://avatars.dicebear.com/api/avataaars/${encodeURIComponent(username)}.svg?options[mood][]=happy`;
   return <img src={url} alt={username} style={{ width: 72, height: 72, borderRadius: 8 }} />;
 }
-
+ 
 export default function App() {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
