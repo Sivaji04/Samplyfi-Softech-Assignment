@@ -83,6 +83,9 @@ npm run build
 ## 🌐 Live Demo
 
 Check the live deployment here: [User Profile Assignment 1](https://user-profile-basic-sivaji.vercel.app/)
+<img width="2916" height="1676" alt="Screenshot 2025-09-18 235650" src="https://github.com/user-attachments/assets/b090e8b2-740b-4170-b2a7-087398b799ee" />
+<img width="841" height="645" alt="Screenshot 2025-09-18 235711" src="https://github.com/user-attachments/assets/53e70e44-6f84-4fac-8b1c-0c5b1914a9ed" />
+
 
 ---
 
