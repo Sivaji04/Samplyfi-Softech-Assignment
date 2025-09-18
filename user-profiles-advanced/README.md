@@ -56,20 +56,13 @@ Key concepts demonstrated:
 
 ## 💻 Installation
 
-1. Clone the repository:
-
-```bash
-git clone <your-github-repo-link>
-cd assignment2-advanced
-```
-
-2. Install dependencies:
+1. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3. Run the development server:
+2. Run the development server:
 
 ```bash
 npm start
@@ -105,7 +98,8 @@ This app is deployed on **Vercel**: [Live Demo](https://user-profiles-advanced-s
 
 ---
 
-## 📫 Contact
+👨‍💻 Author
+Sivaji Sudula ReactJS Frontend Developer
 
-* GitHub: \[Your GitHub Link]
-* Portfolio / LinkedIn: \[Your Portfolio/LinkedIn Link]
+GitHub: https://github.com/Sivaji04
+Email: sudula444@gmail.com
